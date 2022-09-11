@@ -1,0 +1,13 @@
+dolar_amerykanski 20788.1
+dolar_australijski 10000
+euro 39900
+frank_szwajcarski 10000
+funt_brytyjski 8583.62
+korona_czeska 199000
+korona_szwedzka 50000
+lew_bulgarski 50000
+lira_turecka 50000
+peso_filipinskie 100000
+rubel_rosyjski 200000
+wegierski_forint 10000
+zlotowka 105157

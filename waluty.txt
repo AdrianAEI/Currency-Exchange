@@ -1,0 +1,13 @@
+dolar_amerykanski 3.702 3.7327
+dolar_australijski 2.8487 2.8787
+euro 4.49 4.52
+frank_szwajcarski 4.128 4.168
+funt_brytyjski 5.2274 5.2674
+korona_czeska 0.1761 0.1781
+korona_szwedzka 0.444 0.449
+lew_bulgarski 2.2911 2.3161
+lira_turecka 0.4352 0.4512
+peso_filipinskie 0.079 0.083
+rubel_rosyjski 0.0505 0.0525
+wegierski_forint 1.3 1.32
+zlotowka 1 1.01
